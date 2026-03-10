@@ -10,7 +10,7 @@ export const Header: React.FC = () => {
             <div className="bg-leaf-500 p-1.5 rounded-lg">
               <Leaf className="w-6 h-6 text-white" />
             </div>
-            <span className="text-xl font-bold text-leaf-900 tracking-tight">Plant Disease Detection</span>
+            <span className="text-xl font-bold text-leaf-900 tracking-tight">Plant AI</span>
           </div>
           
           <nav className="hidden md:flex items-center gap-8">
