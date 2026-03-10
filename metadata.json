@@ -1,0 +1,5 @@
+{
+  "name": "PlantGuard AI",
+  "description": "AI-powered plant disease detection and protection guide. Upload a leaf image to diagnose health issues and get treatment advice.",
+  "requestFramePermissions": ["camera"]
+}
